@@ -14,7 +14,7 @@ This blog is intended to serve as a personal diary of my experiences, providing 
 ## How to View
 
 To view the blog, you can visit the following URL:
-- [Dante's Logistics Journey](https://yourusername.github.io/DantesLogisticsJourney)
+- [Dante's Logistics Journey](https://DanteAtFIN.github.io/DantesLogisticsJourney)
 
 ## Project Structure
 
